@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Operator Overloading Collections Tasks\ClassWorkPractise\ClassWorkPractise\obj\Debug\net6.0\ClassWorkPractise.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Operator Overloading Collections Tasks\ClassWorkPractise\ClassWorkPractise\obj\Debug\net6.0\ClassWorkPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Operator Overloading Collections Tasks\ClassWorkPractise\ClassWorkPractise\obj\Debug\net6.0\ClassWorkPractise.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Operator Overloading Collections Tasks\ClassWorkPractise\ClassWorkPractise\obj\Debug\net6.0\ClassWorkPractise.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Operator Overloading Collections Tasks\ClassWorkPractise\ClassWorkPractise\obj\Debug\net6.0\ClassWorkPractise.csproj.CoreCompileInputs.cache

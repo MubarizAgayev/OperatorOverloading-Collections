@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\bin\Debug\net6.0\OperatorOverloadingCollectionsTasks.exe
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\bin\Debug\net6.0\OperatorOverloadingCollectionsTasks.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\bin\Debug\net6.0\OperatorOverloadingCollectionsTasks.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\bin\Debug\net6.0\OperatorOverloadingCollectionsTasks.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\bin\Debug\net6.0\OperatorOverloadingCollectionsTasks.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\obj\Debug\net6.0\OperatorOverloadingCollectionsTasks.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\obj\Debug\net6.0\OperatorOverloadingCollectionsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\obj\Debug\net6.0\OperatorOverloadingCollectionsTasks.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\obj\Debug\net6.0\OperatorOverloadingCollectionsTasks.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\obj\Debug\net6.0\OperatorOverloadingCollectionsTasks.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\obj\Debug\net6.0\OperatorOverloadingCollectionsTasks.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\obj\Debug\net6.0\refint\OperatorOverloadingCollectionsTasks.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\obj\Debug\net6.0\OperatorOverloadingCollectionsTasks.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\obj\Debug\net6.0\OperatorOverloadingCollectionsTasks.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\İmplicit-HomeWorkPractise\OperatorOverloadingCollectionsTasks\OperatorOverloadingCollectionsTasks\obj\Debug\net6.0\ref\OperatorOverloadingCollectionsTasks.dll
